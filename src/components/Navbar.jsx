@@ -14,7 +14,7 @@ const Navbar = () => {
         <div className="navbar-main">
           <div className="navbar-logo-group">
             <img
-              src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Example_image.svg/640px-Example_image.svg.png"
+              src="https://www.shutterstock.com/image-vector/lorem-ipsum-logo-design-consept-260nw-1456986776.jpg"
               alt="logo"
               className="navbar-logo"
             />
